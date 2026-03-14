@@ -1,6 +1,6 @@
-Ex.No.4-Generate the Prompt for the following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts.
+# Ex.No.4-Generate the Prompt for the following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts.
 
-Aim: 
+# Aim: 
 To write the prompt for the following prompt types. 
 1. Comparative Analysis Prompt 
 
@@ -10,7 +10,7 @@ To write the prompt for the following prompt types.
 
 Explanation -  Write the prompt for any one use case from Unit 5 or any 2 own use cases for each type.
 
-Procedure:
+# Procedure:
 
 1.Define the Scenario and Use Case: 
 
@@ -40,19 +40,24 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
  # OUTPUT:
+ 
  # 1. Comparative Analysis Prompt
+ 
  **prompt**
  ~~~
 Compare and contrast two smartphone models in terms of battery life, AI-powered camera capabilities, performance for everyday applications (social media, online classes, entertainment), and price. Analyze the advantages and disadvantages of each model and determine which smartphone offers better value and functionality for daily use.
 ~~~
+
 **output**
 <img width="1536" height="1024" alt="ChatGPT Image Mar 12, 2026, 11_09_30 AM" src="https://github.com/user-attachments/assets/38d31872-2c12-4cd3-b5a9-2c3102fe6c7e" />
 
 # 2. Experiential Perspective Prompt
+
 **prompt**
 ~~~
 From the perspective of a regular smartphone user such as a college student, explain how features like long battery life, AI-powered camera, and smooth performance affect your daily activities. Describe how these features support tasks such as attending online classes, communicating with friends, capturing photos, and using entertainment apps.
 ~~~
+
 # output
 From a college student’s perspective, a smartphone with long battery life, a powerful AI camera, and smooth performance greatly improves daily activities.
 
@@ -65,10 +70,12 @@ Smooth performance is important for multitasking. Students often switch between 
 Overall, a smartphone with these features becomes an essential tool for communication, learning, and entertainment.
 
 # 3.Everyday Functioning Prompt
+
 **prompt**
 ~~~
 Explain how smartphone features such as long battery life, AI-based camera technology, and efficient processing help in everyday life. Describe how these functions support common daily activities like messaging, taking photos, attending online classes, using social media, and watching videos.
 ~~~
+
 # output
 Smartphones with advanced features play a significant role in daily life activities.
 
@@ -85,3 +92,4 @@ A powerful processor ensures that applications run smoothly. Users can easily mu
 These features support everyday activities such as communication, learning, entertainment, photography, and productivity. A well-balanced smartphone improves efficiency and convenience in modern digital life.
 
   # RESULT:
+  Thus the three prompt has been execeuted succesfully and the output are generated.
