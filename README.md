@@ -105,7 +105,7 @@ Describe how recommendation systems work in everyday apps like YouTube and Netfl
 
 # output
 
-**outpt1**
+**prompt outpt1**
 
 Smartphones with advanced features play a significant role in daily life activities.
 
@@ -121,7 +121,9 @@ A powerful processor ensures that applications run smoothly. Users can easily mu
 **Daily Benefits:**
 These features support everyday activities such as communication, learning, entertainment, photography, and productivity. A well-balanced smartphone improves efficiency and convenience in modern digital life.
 
-**output2**
+**prompt output2**
+
+
 Recommendation systems analyze user behavior such as watched videos, search history, likes, and viewing time. Using machine learning algorithms, the system identifies patterns in the user’s preferences.
 
 For example, if someone watches many educational videos, the platform will recommend similar content.
